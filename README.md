@@ -81,8 +81,8 @@ Mi objetivo es integrarme a un equipo de desarrollo donde pueda aplicar mis cono
 ## 📫 Contacto
 
 📧 Correo: mayerliavila421@gmail.com  
-💼 LinkedIn: (puedes agregar tu link aquí)  
-💻 GitHub: (puedes agregar tu link aquí)  
+💼 LinkedIn:https://www.linkedin.com/in/mayerli-avila-12a52b3bb/
+💻 GitHub: https://github.com/mayerliavila
 
 ---
 
